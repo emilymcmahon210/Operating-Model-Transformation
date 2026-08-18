@@ -1,9 +1,14 @@
 # Okta Operating Model Transformation
 
+*Financial and operating data sourced from Okta, Inc.'s FY2026 Form 10-K (SEC EDGAR). This project is an independent analysis and is not affiliated with or endorsed by Okta, Inc.*
+
 ### Independent Consulting Case Study
 **Strategy · Operating Model Design · Business Transformation**
 
 > How can Okta preserve operating leverage while scaling a more global, specialized, and partner-enabled organization?
+
+
+
 
 ---
 
