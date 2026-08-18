@@ -1,172 +1,73 @@
-# Scaling Without Rebuilding Complexity
+# Okta Operating Model Transformation
 
-## Operating Model Transformation | Okta
+### Independent Consulting Case Study
+**Strategy · Operating Model Design · Business Transformation**
 
-**Business Transformation · Operating Model Strategy · Organizational Effectiveness**
-
-> An independent consulting case examining how Okta can sustain recent efficiency gains while scaling a more global, specialized, and partner-enabled organization.
-
----
-
-## Executive Summary
-
-Okta has undergone a significant shift in operating performance.
-
-Between FY2024 and FY2026, revenue increased from **$2.26B to $2.92B**, operating expenses declined from **97.1% to 72.3% of revenue**, and operating margin improved from **-22.8% to +5.1%**.
-
-At the same time, a new challenge is emerging.
-
-Headcount growth has resumed, the workforce is becoming increasingly global, enterprise customer relationships are expanding, and more service delivery is shifting toward external partners.
-
-The question is no longer simply how Okta can reduce costs.
-
-### How can Okta preserve operating leverage while building an operating model capable of supporting its next phase of profitable growth?
+> How can Okta preserve operating leverage while scaling a more global, specialized, and partner-enabled organization?
 
 ---
 
-## Case at a Glance
+## Case Overview
 
-| | FY2024 | FY2026 | Change |
-|---|---:|---:|---:|
-| **Revenue** | $2.26B | $2.92B | +29% |
-| **Operating Margin** | -22.8% | +5.1% | +27.9 pts |
-| **Operating Expense / Revenue** | 97.1% | 72.3% | -24.8 pts |
-| **Revenue / Employee** | $383K | $459K | +20% |
-| **International Workforce** | 33% | 44% | +11 pts |
+From FY2024 to FY2026, Okta improved operating performance significantly, reducing operating expenses from **97% to 72% of revenue** while moving from a **-22.8% to 5.1% operating margin**.
 
-The analysis suggests that Okta has achieved meaningful operating leverage. The next challenge is sustaining that performance as organizational complexity increases.
+With headcount growth resuming, international operations expanding, and more service delivery shifting to external partners, this case examines how Okta's operating model could evolve to support its next phase of profitable growth.
 
 ---
 
-## The Business Challenge
+## Key Findings
 
-The case evaluates Okta's operating model across four dimensions:
-
-**People**  
-Can the organization continue scaling without returning to proportional headcount growth?
-
-**Process**  
-Can cross-functional processes keep pace with a more specialized go-to-market model?
-
-**Governance**  
-Are decision rights and accountability structured for an increasingly global organization?
-
-**Technology & Information**  
-Can Okta maintain sufficient visibility and performance management as more delivery shifts to external partners?
+- **Workforce growth has resumed** — headcount increased 7.6% in FY2026.
+- **The organization is becoming more global** — international employees increased from 33% to 44% of the workforce.
+- **Enterprise complexity is increasing** — customers with more than $100K ACV grew to 5,100.
+- **Delivery is shifting toward partners** — creating new requirements for governance, accountability, and performance visibility.
 
 ---
 
-## Strategic Diagnosis
+## Recommended Operating Model
 
-Three developments create the strongest operating-model implications:
+The proposed transformation focuses on three priorities:
 
-### 01 | Increasing Organizational Complexity
-International employees increased from **33% to 44% of the workforce**, expanding the geographic scope across which governance and decision-making must operate.
+### 01 — Simplify Governance
+Clarify decision rights, ownership, and accountability as the organization expands globally.
 
-### 02 | Greater Cross-Functional Coordination
-Okta further specialized its go-to-market organization by buying center, creating additional coordination points across Sales, Customer Success, Product, Operations, Okta, and Auth0.
+### 02 — Strengthen Cross-Functional Execution
+Improve coordination across Sales, Customer Success, Product, and Operations as enterprise accounts become more complex.
 
-### 03 | Shift Toward Partner-Enabled Delivery
-Okta expects more professional-services engagements to move toward its partner ecosystem, increasing the importance of partner governance, service standards, accountability, and performance visibility.
-
----
-
-# Recommendations
-
-## 01 | Simplify Governance
-
-Clarify decision rights, ownership, and accountability across an increasingly global organization.
-
-**Key actions**
-- Define ownership for enterprise decisions and escalations
-- Reduce unnecessary approval complexity
-- Establish consistent governance standards
-- Strengthen performance accountability
+### 03 — Scale Through the Partner Ecosystem
+Establish stronger governance, performance standards, and visibility for partner-delivered engagements.
 
 ---
 
-## 02 | Strengthen Cross-Functional Execution
+## Implementation Approach
 
-Create clearer coordination across Sales, Customer Success, Product, and Operations.
+**Assess → Design → Pilot → Scale**
 
-**Key actions**
-- Establish cross-functional ownership for complex enterprise accounts
-- Standardize critical handoffs
-- Align functional KPIs with enterprise objectives
-- Improve execution visibility
-
----
-
-## 03 | Scale Through the Partner Ecosystem
-
-Build a structured operating model for delivery increasingly performed outside the organization.
-
-**Key actions**
-- Establish partner governance and ownership
-- Define service-level expectations
-- Implement partner performance measures
-- Maintain consistent customer-experience standards
-
----
-
-## Transformation Roadmap
-
-**0–30 Days — Assess**  
-Validate process ownership, decision rights, organizational pain points, and baseline performance.
-
-**30–90 Days — Design**  
-Develop the target operating model, governance structure, and accountability framework.
-
-**3–6 Months — Pilot**  
-Test redesigned processes and governance within selected functions.
-
-**6–12 Months — Scale**  
-Expand successful changes and establish continuous performance monitoring.
+| Phase | Timeline | Focus |
+|---|---|---|
+| **Assess** | 0–30 Days | Validate ownership, decision rights, pain points, and baseline performance |
+| **Design** | 30–90 Days | Develop the target operating model and governance structure |
+| **Pilot** | 3–6 Months | Test redesigned processes and governance |
+| **Scale** | 6–12 Months | Expand successful changes and establish performance monitoring |
 
 ---
 
 ## Value at Stake
 
-The case explores an illustrative scenario in which improved governance and partner-delivery discipline reduce operating expense as a percentage of revenue from **72.3% toward approximately 65%**.
+At FY2026 revenue levels, each **1 percentage-point reduction in operating expenses as a percentage of revenue represents approximately $29M in theoretical annual operating expense impact.**
 
-On FY2026 revenue of approximately **$2.92B**, a seven-percentage-point improvement represents roughly:
-
-### ~$200M in potential margin opportunity
-
-This estimate is illustrative and is not an Okta target or management projection.
+This sensitivity illustrates the potential value of incremental operating leverage and is not an estimate of savings attributable to the proposed initiatives.
 
 ---
 
-# View the Full Case Study Deck
+## View the Full Case Study
 
-The executive presentation includes the complete:
+### [View Full Consulting Deck →](./Okta%20Operating%20Model%20Transformation.pdf)
 
-**Situation → Complication → Diagnosis → Benchmarking → Recommendations → Prioritization → Roadmap → Value at Stake**
-
-### [VIEW FULL CASE STUDY DECK →](./Operating_Model_Transformation.pdf)
+*Independent case study developed using publicly available information. This project is not affiliated with or endorsed by Okta, Inc.*
 
 ---
 
-## Approach
+### Methods & Tools
 
-`Assess` → `Diagnose` → `Design` → `Implement`
-
-The case combines:
-
-`Business Strategy` · `Operating Model Design` · `Financial Analysis` · `Competitive Benchmarking` · `Process Improvement` · `Transformation Strategy` · `Executive Communication`
-
----
-
-## Data & Methodology
-
-This is an independent consulting case study developed using publicly available company information.
-
-Financial and operating data are sourced primarily from **Okta, Inc.'s FY2026 Form 10-K (SEC EDGAR)**. Competitive benchmarking uses publicly reported financial information from CrowdStrike Holdings.
-
-Any operating-model scenarios, prioritization assessments, or value-at-stake estimates are illustrative and are not presented as actual Okta internal data, targets, or guidance.
-
-This project is not affiliated with or endorsed by Okta, Inc.
-
----
-
-*Independent Consulting Case Study | 2026*
+`Business Strategy` `Operating Model Design` `Financial Analysis` `Competitive Benchmarking` `Process Improvement` `Transformation Strategy` `Excel` `Executive Communication`
